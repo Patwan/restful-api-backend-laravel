@@ -7,8 +7,8 @@ A project showing how to create a RESTFUL API backend using Laravel PHP framewor
 * Concerning authentication we are using **Json Web Token (JWT)** to access the endpoints
 
 ## Front-end frameworks used with this API backend
-Angular - [Download code here](https://github.com/Patwan/restful-api-frontend-angular)
-Vuejs -  [Download code here](https://github.com/Patwan/restful-api-frontend-vuejs)
+* Angular - [Download code here](https://github.com/Patwan/restful-api-frontend-angular)
+* Vuejs -  [Download code here](https://github.com/Patwan/restful-api-frontend-vuejs)
 
 
 ## Installation
